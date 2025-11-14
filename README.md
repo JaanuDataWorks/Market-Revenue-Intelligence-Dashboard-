@@ -2,7 +2,7 @@
 ## Project Objective
 The goal of this project is to create an annual sales report for 2024 so that marketplace managers can understand overall product performance, customer behavior, and sales trends, and use these insights to grow revenue in 2025.
 ## Dataset used
-- <a href="https://github.com/iiibsceprana/Data-Analysis-Dashboard/blob/main/Dashboard%20(Sales%20data).xlsx">Dataset</a>
+- <a href="https://github.com/iiibsceprana/Market-Revenue-Intelligence-Dashboard-/blob/main/Dashboard%20(Sales%20data).xlsx">Dataset</a>
 
 ## Questions (KPIs)
 Which category generated the highest sales?
@@ -25,7 +25,7 @@ What are the monthly sales trends?
 
 Percentage of Total Orders Delivered
 
-- Dashboard Interaction <a href="https://github.com/iiibsceprana/Data-Analysis-Dashboard/blob/main/Sales%20Dashboard.jpg">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/iiibsceprana/Market-Revenue-Intelligence-Dashboard-/blob/main/Sales%20Dashboard.jpg">View Dashboard</a>
 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
